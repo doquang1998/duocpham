@@ -2651,8 +2651,10 @@ ol {
 
 .footer__widget h6 {
 	color: #1c1c1c;
-	font-weight: 700;
+	font-weight: bolder;
 	margin-bottom: 10px;
+	text-transform: capitalize;
+	font-family: "Roboto",sans-serif;
 }
 
 .footer__widget ul {
@@ -2666,7 +2668,7 @@ ol {
 
 .footer__widget ul li a {
 	color: #1c1c1c;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 32px;
 }
 
