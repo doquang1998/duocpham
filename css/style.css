@@ -1052,6 +1052,9 @@ ol {
 	color: #ffffff;
 	font-weight: 700;
 }
+.logo-footer{
+	margin-top: -45px;
+}
 
 .breadcrumb__option a {
 	display: inline-block;
