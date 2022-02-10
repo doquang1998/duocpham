@@ -488,7 +488,10 @@ ol {
 .header__menu ul li:hover>a {
 	color: #7fad39;
 }
-
+.bog-recent{
+	text-align: center;
+	padding: 10px 0 0;
+}
 .header__menu ul li:last-child {
 	margin-right: 0;
 }
