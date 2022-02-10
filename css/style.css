@@ -497,6 +497,10 @@ ol {
 	align-items: center;
 	gap: 20px;
 }
+.product-item{
+	margin-left: 15px;
+	margin-right: 15px;
+}
 .image-blog{
 	width: 50%;
 }
