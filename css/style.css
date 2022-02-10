@@ -940,7 +940,9 @@ ol {
 .featured__item__text h6 a {
 	color: #252525;
 }
-
+.featured__item__text h6 a:hover {
+		color: #7fad39;
+}
 .featured__item__text h5 {
 	color: #252525;
 	font-weight: 700;
