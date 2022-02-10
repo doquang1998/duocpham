@@ -317,9 +317,22 @@ ol {
 
 .header__top__right__social a {
 	font-size: 14px;
-	display: inline-block;
-	color: #1c1c1c;
-	margin-right: 20px;
+    display: inline-block;
+    color: #1c1c1c;
+    height: 30px;
+    width: 30px;
+    border: 1px solid #ededed;
+    border-radius: 50%;
+    line-height: 30px;
+    text-align: center;
+    background: #ffffff;
+    margin-right: 10px;
+}
+
+.header__top__right__social a:hover {
+    background: rgb(127, 173, 57);
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
 }
 
 .header__top__right__social a:last-child {
