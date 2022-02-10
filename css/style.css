@@ -500,6 +500,9 @@ ol {
 .image-blog{
 	width: 50%;
 }
+.detail-product-producer{
+	margin-left: 20px;
+}
 .header__menu ul li:last-child {
 	margin-right: 0;
 }
