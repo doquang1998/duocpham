@@ -682,6 +682,10 @@ ol {
     display: block;
 }
 
+.hero__categories ul li a:hover {
+    color: #3CC032;
+}
+
 .hero__search {
     overflow: hidden;
     margin-bottom: 30px;
