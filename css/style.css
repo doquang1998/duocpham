@@ -1790,10 +1790,21 @@ ol {
 }
 
 .product__details__text ul li .share a {
-	display: inline-block;
-	font-size: 15px;
-	color: #1c1c1c;
-	margin-right: 25px;
+	font-size: 14px;
+    display: inline-block;
+    color: #1c1c1c;
+    height: 30px;
+    width: 30px;
+    border: 1px solid #ededed;
+    border-radius: 50%;
+    line-height: 30px;
+    text-align: center;
+    background: #ffffff;
+    margin-right: 25px;
+}
+
+.product__details__text ul li .share a:hover {
+	background-color: #3CC032;
 }
 
 .product__details__text ul li .share a:last-child {
