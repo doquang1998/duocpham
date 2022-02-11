@@ -2703,6 +2703,10 @@ ol {
 	line-height: 32px;
 }
 
+.footer__widget ul li a:hover {
+	color: #3CC032;
+}
+
 .footer__widget p {
 	font-size: 14px;
 	color: #1c1c1c;
